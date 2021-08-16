@@ -1,0 +1,5 @@
+com\mycompany\jerseytutorial\model\User.class
+com\mycompany\jerseytutorial\Tester.class
+com\mycompany\jerseytutorial\resources\UserResource.class
+com\mycompany\jerseytutorial\Temperature.class
+com\mycompany\jerseytutorial\services\UserService.class
